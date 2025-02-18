@@ -1,4 +1,4 @@
-﻿Portfolio Mini Project - Deep Description
+ki﻿Portfolio Mini Project - Deep Description
 
 A personal portfolio website is a web-based project designed to showcase an individual's skills, experience, and projects. It serves as an online resume and branding tool, allowing users to present their professional profile in a structured and visually appealing manner.
 
@@ -196,11 +196,5 @@ Improved web development skills (HTML, CSS, JS).
 A shareable resume alternative for job applications.
 
 A hosted live project for showcasing your skills.
-
-
-
----
-
-This portfolio project is an excellent beginner-friendly mini-project that strengthens web development skills while providing a valuable personal branding tool. Let me know if you need customizations or additional features!
 
 
